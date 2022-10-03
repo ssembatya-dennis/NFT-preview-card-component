@@ -13,10 +13,10 @@ html {
 }
 
 :root {
-  --color-text: #8bacd9;
-  --color-white: #fff;
-  --color-primary: #0d192c;
-  --color-primary-light: #00fff8;
+  --color-text: hsl(215, 51%, 70%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-primary: hsl(217, 54%, 11%);
+  --color-primary-light: hsl(178, 100%, 50%);
   --default-font-size: 1.6rem;
 }
 
@@ -33,7 +33,7 @@ body {
   min-height: 60rem;
   height: auto;
   padding: 2.4rem;
-  box-shadow: 8px 10px 20px rgba(0, 0, 0, 0.3);
+  box-shadow: 8px 10px 20px hsla(0, 0%, 0%, 0.302);
   margin: 5rem auto;
   border-radius: 0.8rem;
 }
@@ -98,7 +98,7 @@ body {
   align-items: center;
   margin-bottom: 2.4rem;
   padding-bottom: 2.5rem;
-  border-bottom: 1px solid rgba(139, 135, 135, 0.548);
+  border-bottom: 1px solid hsla(0, 2%, 54%, 0.549);
 }
 
 .span_icon {
