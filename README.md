@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/responsive-card-component-using-flexbox-eBcFPfbDK-)
+- Live Site URL: [NFT preview card component challenge #live](https://nft-preview-card-component-6q7d.vercel.app/)
 
 ### Built with
 
